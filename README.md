@@ -40,7 +40,7 @@
 <br>
 <br>
  <!--计数牌-->
-<a href="https://b23.tv/baqD8N8">
+<a href="https://space.bilibili.com/72235123">
 <img src="https://stats.justsong.cn/api/bilibili/?id=72235123" align="center"></a>
  </td>
 </tr>
