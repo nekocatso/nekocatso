@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10">
+ <defs>
+  <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
+   <stop offset="0%" stop-color="#a551df"/>
+   <stop offset="5%" stop-color="#fd51ad"/>
+   <stop offset="10%" stop-color="#ff7f82"/>
+   <stop offset="15%" stop-color="#ffb874"/>
+   <stop offset="20%" stop-color="#ffeb90"/>
+   <stop offset="25%" stop-color="#a551df"/>
+   <stop offset="30%" stop-color="#fd51ad"/>
+   <stop offset="35%" stop-color="#ff7f82"/>
+   <stop offset="40%" stop-color="#ffb874"/>
+   <stop offset="45%" stop-color="#ffeb90"/>
+   <stop offset="50%" stop-color="#a551df"/>
+   <stop offset="55%" stop-color="#fd51ad"/>
+   <stop offset="60%" stop-color="#ff7f82"/>
+   <stop offset="65%" stop-color="#ffb874"/>
+   <stop offset="70%" stop-color="#ffeb90"/>
+   <stop offset="75%" stop-color="#a551df"/>
+   <stop offset="80%" stop-color="#fd51ad"/>
+   <stop offset="85%" stop-color="#ff7f82"/>
+   <stop offset="90%" stop-color="#ffb874"/>
+   <stop offset="95%" stop-color="#ffeb90"/>
+   <stop offset="100%" stop-color="#a551df"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect x="-100" y="0" width="400%" height="0.5" fill="url(#gradient)" id="svg_1"/>
+ </g>
+</svg>
